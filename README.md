@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamseel101&label=Profile%20views&color=0e75b6&style=flat" alt="tamseel101" /> </p>
 
 
-- 🔭 I’m working on a full-stack app called CodeNow with a team of 7 amazing developers from the University of Toronto. 
+- 🔭 I’m working on a full-stack web-app called CodeNow with a team of 7 amazing developers from the University of Toronto using Django, React and Python. 
 
-- 🌱 I’m currently learning **React, Django, Docker**
+- 🌱 I’m currently learning: **React, Django, Docker**
 
-- 📝 I regularly write articles on [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
+- 📝 I regularly write articles on: [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
 
 - 💬 Ask me about **CodeNow**
 
-- 📫 How to reach me **tamseel.sheikh@mail.utoronto.ca**
+- 📫 How to reach me?! **tamseel.sheikh@mail.utoronto.ca**
 
 - ⚡ **My favorite quote is: “Wish it need not have happened in my time,” said Frodo. “So do I,” said Gandalf, “and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us.” Tolkien, The Fellowship of the Ring.**
 
