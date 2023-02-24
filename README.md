@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamseel101&label=Profile%20views&color=0e75b6&style=flat" alt="tamseel101" /> </p>
 
 
-- 🔭 I’m working on a full-stack web-app called CodeNow with a team of 7 amazing developers from the University of Toronto using Django, React and Python. 
+- 🔭 I’m working on a full-stack web-app called CodeNow with a team of 7 amazing developers from the University of Toronto. 
 
 - 🌱 I’m currently learning: **React, Django, Docker**
 
