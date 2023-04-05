@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **React, Django, Docker**
 
-- 📝 I regularly write articles on: [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
+- 📝 I write articles on: [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
 
 - 💬 Ask me about **CodeNow**
 
