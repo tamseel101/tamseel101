@@ -1,9 +1,8 @@
 # Tamseel Sheikh
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamseel101&label=Profile%20views&color=0e75b6&style=flat" alt="tamseel101" /> </p>
 
 👋🏻 Hi, my name is Tamseel!
 
-📚 Pursuing Bachelor of Computer Science with a specialization in HCI and AI, with a Minor in Mathematics from the University of Toronto (4th year).                 
+📚 Pursuing Bachelor of Computer Science with a specialization in AI, with a Minor in Mathematics and Professional Writing from the University of Toronto (4th year).                 
 
 💼 Currently working as a Teaching Assistant and Research Assistant in the computer science department.
 
