@@ -1,6 +1,6 @@
 # Tamseel Sheikh
 
-👋🏻 Hi, my name is Tamseel!
+👋🏻 Hi!, my name is Tamseel!
 
 📚 Pursuing Bachelor of Computer Science specializing in AI, with a Minor in Mathematics and Professional Writing from the University of Toronto (4th year).                 
 
