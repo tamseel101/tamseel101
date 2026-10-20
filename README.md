@@ -8,7 +8,7 @@
 
 - 📝 I write articles on: [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
 
-- 📫 How to reach me?! **tamseel.sheikh@mail.utoronto.ca**
+- 📫 How to reach me?! **tamseel.sheikh@alumni.utoronto.ca**
 
 
 <h3 align="left">Languages and Tools:</h3>
