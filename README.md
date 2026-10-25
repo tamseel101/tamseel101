@@ -2,9 +2,9 @@
 
 👋🏻 Hi!, my name is Tamseel! 
 
-📚 Pursuing Bachelor of Computer Science specializing in AI, with a Minor in Mathematics and Professional Writing from the University of Toronto (5th year).                 
+📚Bachelor of Computer Science specializing in AI, with a Minor in Mathematics and Professional Writing from the University of Toronto.                 
 
-💼 Currently working as a Teaching Assistant and Research Assistant in the computer science department.
+💼 Currently working as a Software Dev at Scotiabank.
 
 - 📝 I write articles on: [https://medium.com/@tamseel101](https://medium.com/@tamseel101)
 
